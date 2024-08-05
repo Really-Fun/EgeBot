@@ -1,0 +1,13 @@
+.env
+.vscode
+.venv
+__pycache__
+__pycache__/
+.mypy_cache/
+.mypy_cache
+your_image.png
+.your_image.png
+/your_image.png
+.first_database.db
+first_database.db
+/first_database.db
