@@ -3,8 +3,8 @@ from keyboards import *
 from aiogram.types import Message, CallbackQuery
 from aiogram import F, Router
 from aiogram.types import FSInputFile
-from services.ege_levels import get_png, get_level, get_answer, get_decision, get_decision_images
-from services.zadaniya_varianti import math1, math2, math3, math4, math5, math6, math7, math8, math9, math10, math11, math12
+from services.sdamgia_utils import get_png, get_level, get_answer, get_decision, get_decision_images
+from services.tasks import math1, math2, math3, math4, math5, math6, math7, math8, math9, math10, math11, math12
 from database.base import baza
 
 
