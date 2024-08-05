@@ -5,7 +5,7 @@ from services.perexodnik import from_svg_to_png
 sd = SdamGIA()
 
 
-def get_png(subject: str, id: str) -> str:
+def get_png(subject: str, id: str) -> list:
     level = sd.get_problem_by_id(subject=subject, id=id)
     all_images = []
     for i in level['condition']['images']:
