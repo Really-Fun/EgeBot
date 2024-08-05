@@ -1,8 +1,9 @@
 <h1 align="center">Telegram Бот для Подготовки к ЕГЭ по Математике 📚🤖</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10-blue" alt="Python Version"/>
-  <img src="https://img.shields.io/badge/aiogram-3.x-orange" alt="aiogram"/>
+  <img src="https://img.shields.io/badge/Python-3.11.8-blue" alt="Python Version"/>
+  <img src="https://img.shields.io/badge/aiogram-3.1.1-orange" alt="aiogram"/>
+  <img src="https://img.shields.io/badge/SdamGia-Api-yellow" alt="aiogram"/>
   <img src="https://img.shields.io/badge/license-MIT-green" alt="License"/>
 </p>
 
@@ -22,9 +23,9 @@
 
 ### 🛠️ Используемые технологии
 
-- **Python 3.10**
-- **Aiogram 3.x** - фреймворк для разработки Telegram-ботов.
-- **SdamGIA API** - источник задач и решений.
+- **Python 3.11.8**
+- **Aiogram 3.1.1** - фреймворк для разработки Telegram-ботов.
+- **SdamGIA API 0.1.7** - источник задач и решений.
 - **SQLite** - база данных для хранения статистики пользователей.
 
 ---
