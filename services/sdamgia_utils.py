@@ -1,6 +1,6 @@
 import requests
 from sdamgia import SdamGIA
-from services.perexodnik import from_svg_to_png
+from services.svg_to_png import from_svg_to_png
 
 sd = SdamGIA()
 
