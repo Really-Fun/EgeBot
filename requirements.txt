@@ -15,17 +15,20 @@ cffi==1.16.0
 charset-normalizer==3.3.0
 colorama==0.4.6
 cssselect2==0.7.0
+DateTime==5.5
 defusedxml==0.7.1
 environs==9.5.0
 frozenlist==1.4.0
 GrabzIt==3.5.2
 idna==3.4
 importlib-metadata==6.8.0
+iniconfig==2.0.0
 magic-filter==1.0.12
 marshmallow==3.20.1
 multidict==6.0.4
 packaging==23.2
 Pillow==10.1.0
+pluggy==1.5.0
 pycodestyle==2.11.1
 pycparser==2.21
 pydantic==2.3.0
@@ -33,7 +36,10 @@ pydantic_core==2.6.3
 pyee==8.2.2
 pyppeteer==1.0.2
 pytesseract==0.3.10
+pytest==8.3.2
+pytest-asyncio==0.23.8
 python-dotenv==1.0.0
+pytz==2024.1
 requests==2.31.0
 sdamgia-api==0.1.7
 soupsieve==2.5
@@ -45,3 +51,4 @@ webencodings==0.5.1
 websockets==10.4
 yarl==1.9.2
 zipp==3.17.0
+zope.interface==6.4.post2

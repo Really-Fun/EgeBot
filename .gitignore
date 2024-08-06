@@ -11,3 +11,5 @@ your_image.png
 .first_database.db
 first_database.db
 /first_database.db
+test.txt
+.pytest_cache
