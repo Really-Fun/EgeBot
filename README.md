@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11.8-blue" alt="Python Version"/>
   <img src="https://img.shields.io/badge/aiogram-3.1.1-orange" alt="aiogram"/>
+  <img src="https://img.shields.io/badge/SQLite-3.1.1-orange" alt="aiogram"/>
   <img src="https://img.shields.io/badge/SdamGia-Api-yellow" alt="aiogram"/>
   <img src="https://img.shields.io/badge/license-Apache-green" alt="License"/>
 </p>
